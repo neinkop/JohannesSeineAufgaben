@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: red;
+    background-color: blue;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+}

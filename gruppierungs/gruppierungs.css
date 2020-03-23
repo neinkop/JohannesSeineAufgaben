@@ -1,0 +1,25 @@
+body {
+    font-family: Arial Unicode MS;
+    color: #FF0000;
+    background: #EFEFEF;
+}
+
+h1, h2 {
+    text-align: center;
+    background: #0000FF;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+ol, p {
+    font-family: Algerian;
+    font-size: large;
+    text-align: center;
+    color: #0000FF;
+}
